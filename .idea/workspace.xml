@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d610a931-ceb0-4265-aa82-ca4ed5b5d954" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpBegin/Variables.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +27,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="premierProgramme.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpBegin/premierProgramme.php">
+      <file leaf-file-name="Variables.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpBegin/Variables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="e#6#84#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,6 +50,7 @@
         <option value="$PROJECT_DIR$/phpBegin/premierProgramme.php" />
         <option value="$PROJECT_DIR$/config/Configuration.php" />
         <option value="$PROJECT_DIR$/config/info.php" />
+        <option value="$PROJECT_DIR$/phpBegin/Variables.php" />
       </list>
     </option>
   </component>
@@ -248,12 +252,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492802246413</updated>
       <workItem from="1492802248120" duration="325000" />
-      <workItem from="1492845199468" duration="4256000" />
+      <workItem from="1492845199468" duration="6366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4581000" />
+    <option name="totallyTimeSpent" value="6691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,9 +347,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phpBegin/premierProgramme.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpBegin/Variables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
