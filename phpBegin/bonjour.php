@@ -17,7 +17,6 @@
         //Transtipage : convertion en int !
 
         $_GET['repeter'] = (int) $_GET['repeter'];
-
         if($_GET['repeter']>0 && $_GET['repeter']<=100){
 
     for($i=0;$i<$_GET['repeter'];$i++) {
