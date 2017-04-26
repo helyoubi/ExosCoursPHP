@@ -16,6 +16,7 @@ setcookie('pseudo','zikyoubi',time()+365*24*3600,null,null,false,true);
 
 // On écrit un autre cookie...
 setcookie('pays', 'France', time() + 365*24*3600, null, null, false, true);
+
 // Et SEULEMENT MAINTENANT, on peut commencer à écrire du code html
 
 ?>

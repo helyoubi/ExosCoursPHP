@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d610a931-ceb0-4265-aa82-ca4ed5b5d954" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpBegin/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpBegin/RecupeSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpBegin/afficherCookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpBegin/gestionFichier.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpBegin/VariablesGlobales.php" afterPath="$PROJECT_DIR$/phpBegin/VariablesGlobales.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpBegin/Cookie.php" afterPath="$PROJECT_DIR$/phpBegin/Cookie.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,24 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Cookie.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpBegin/Cookie.php">
+      <file leaf-file-name="gestionFichier.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpBegin/gestionFichier.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#6#84#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="afficherCookie.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpBegin/afficherCookie.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -86,6 +74,7 @@
         <option value="$PROJECT_DIR$/phpBegin/VariablesGlobales.php" />
         <option value="$PROJECT_DIR$/phpBegin/afficherCookie.php" />
         <option value="$PROJECT_DIR$/phpBegin/Cookie.php" />
+        <option value="$PROJECT_DIR$/phpBegin/gestionFichier.php" />
       </list>
     </option>
   </component>
@@ -300,12 +289,12 @@
       <workItem from="1492933123749" duration="6567000" />
       <workItem from="1493018800007" duration="5206000" />
       <workItem from="1493193890492" duration="665000" />
-      <workItem from="1493199673158" duration="3720000" />
+      <workItem from="1493199673158" duration="5886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24923000" />
+    <option name="totallyTimeSpent" value="27089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,6 +523,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpBegin/Cookie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpBegin/afficherCookie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -542,10 +541,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpBegin/Cookie.php">
+    <entry file="file://$PROJECT_DIR$/phpBegin/gestionFichier.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#6#84#0#PHP" expanded="true" />
           </folding>
