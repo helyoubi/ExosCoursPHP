@@ -25,8 +25,8 @@ catch(Exception $e)
 // On récupère tout le contenu de la table jeux_video
 //$reponse = $bdd->query('SELECT * FROM jeux_video LIMIT 0,5');
 
-//Requete plus sécuriser avec prepare
-$reponse = $bdd->prepare('SELECT nom, prix FROM jeux_video WHERE possesseur = :possesseur AND prix <= :prixmax');
+//Requete plus sécuriser avec prepare et afficher l'erreur s'il y ont as avec errorInfo()
+$reponse = $bdd->prepare('SELECT nom, prix FROM jeux_video WHERE possesseur = :possesseur AND prix <= :prixmax')or die(print_r($bdd->errorInfo()));
 $reponse->execute(array('possesseur' => $_GET['possesseur'], 'prixmax' => $_GET['prix_max']));
 
 // On affiche chaque entrée une à une
