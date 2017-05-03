@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d610a931-ceb0-4265-aa82-ca4ed5b5d954" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MySql/FonctionMysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MySql/Insert_Mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MySql/Update_Mysql.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySql/ConnectionMysql.php" afterPath="$PROJECT_DIR$/MySql/ConnectionMysql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySql/FonctionMysql.php" afterPath="$PROJECT_DIR$/MySql/FonctionMysql.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,9 +30,28 @@
       <file leaf-file-name="FonctionMysql.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="323">
+              <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+              <folding>
+                <element signature="e#6#84#0#PHP" expanded="true" />
+                <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
+                <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
+                <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
+                <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Insert_Mysql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="e#6#84#0#PHP" expanded="true" />
+                <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,7 +180,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,12 +313,13 @@
       <workItem from="1493199673158" duration="6321000" />
       <workItem from="1493540224193" duration="371000" />
       <workItem from="1493540778553" duration="6162000" />
-      <workItem from="1493648274835" duration="5622000" />
+      <workItem from="1493648274835" duration="6819000" />
+      <workItem from="1493800026011" duration="1982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39679000" />
+    <option name="totallyTimeSpent" value="42858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,12 +387,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MySql/ConnectionMysql.php">
+    <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/ConnectionMysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="false" />
             <marker date="1493656239205" expanded="true" signature="549:573" ph="SELECT * FRO... jeux_video" />
             <marker date="1493656239205" expanded="true" signature="549:574" ph="SELECT * FRO... jeux_video" />
             <marker date="1493656239205" expanded="true" signature="549:579" ph="SELECT * FRO... jeux_video" />
@@ -571,23 +602,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#84#0#PHP" expanded="true" />
-            <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySql/ConnectionMysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           <folding>
-            <element signature="e#6#84#0#PHP" expanded="true" />
+            <element signature="e#6#84#0#PHP" expanded="false" />
             <marker date="1493656239205" expanded="true" signature="549:573" ph="SELECT * FRO... jeux_video" />
             <marker date="1493656239205" expanded="true" signature="549:574" ph="SELECT * FRO... jeux_video" />
             <marker date="1493656239205" expanded="true" signature="549:579" ph="SELECT * FRO... jeux_video" />
@@ -603,17 +623,34 @@
         <state relative-caret-position="323">
           <caret line="19" column="82" lean-forward="false" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
           <folding>
-            <element signature="e#6#84#0#PHP" expanded="true" />
+            <element signature="e#6#84#0#PHP" expanded="false" />
             <marker date="1493655807150" expanded="true" signature="364:432" ph="UPDATE jeux_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
+            <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
+          </folding>
         </state>
       </provider>
     </entry>
