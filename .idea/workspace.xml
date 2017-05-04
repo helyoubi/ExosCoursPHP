@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d610a931-ceb0-4265-aa82-ca4ed5b5d954" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlusLoin/Image_logo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlusLoin/Php_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/Php_img.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySql/FonctionMysql.php" afterPath="$PROJECT_DIR$/MySql/FonctionMysql.php" />
     </list>
@@ -27,30 +31,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FonctionMysql.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
+      <file leaf-file-name="Php_image.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PlusLoin/Php_image.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+            <state relative-caret-position="255">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="55" />
               <folding>
                 <element signature="e#6#84#0#PHP" expanded="true" />
-                <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
-                <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
-                <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
-                <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insert_Mysql.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
+      <file leaf-file-name="Image_logo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PlusLoin/Image_logo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="30" column="33" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="357">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding>
                 <element signature="e#6#84#0#PHP" expanded="true" />
-                <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
               </folding>
             </state>
           </provider>
@@ -96,6 +95,9 @@
         <option value="$PROJECT_DIR$/MySql/Update_Mysql.php" />
         <option value="$PROJECT_DIR$/MySql/ConnectionMysql.php" />
         <option value="$PROJECT_DIR$/MySql/FonctionMysql.php" />
+        <option value="$PROJECT_DIR$/PlusLoin/Php_image.php" />
+        <option value="$PROJECT_DIR$/html/Php_img.html" />
+        <option value="$PROJECT_DIR$/PlusLoin/Image_logo.php" />
       </list>
     </option>
   </component>
@@ -150,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,6 +163,20 @@
               <option name="myItemId" value="ParcoursPHP" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlusLoin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ParcoursPHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ParcoursPHP" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -173,13 +188,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySql" />
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,13 +205,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64bits\www\ParcoursPHP\phpBegin" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64bits\www\ParcoursPHP\images" />
       <recent name="C:\wamp64bits\www\ParcoursPHP\js" />
       <recent name="C:\wamp64bits\www\ParcoursPHP" />
       <recent name="C:\wamp64bits\www\ParcoursPHP\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64bits\www\ParcoursPHP\images" />
+      <recent name="C:\wamp64bits\www\ParcoursPHP\phpBegin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,12 +332,13 @@
       <workItem from="1493540224193" duration="371000" />
       <workItem from="1493540778553" duration="6162000" />
       <workItem from="1493648274835" duration="6819000" />
-      <workItem from="1493800026011" duration="1982000" />
+      <workItem from="1493800026011" duration="4295000" />
+      <workItem from="1493885505593" duration="3341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42858000" />
+    <option name="totallyTimeSpent" value="48512000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +351,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1852123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -393,10 +411,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#6#84#0#PHP" expanded="true" />
-            <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:451" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:463" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:518" ph="INSERT INTO jeux_video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493804835776" expanded="true" signature="346:451" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:463" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:518" ph="INSERT INTO jeux_video... " />
           </folding>
         </state>
       </provider>
@@ -629,10 +670,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+            <marker date="1493804835776" expanded="true" signature="346:451" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:463" ph="INSERT INTO jeux_video... " />
+            <marker date="1493804835776" expanded="true" signature="346:518" ph="INSERT INTO jeux_video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MySql/Insert_Mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
+          <caret line="30" column="33" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="33" />
           <folding>
             <element signature="e#6#84#0#PHP" expanded="true" />
             <marker date="1493655459370" expanded="true" signature="280:443" ph="INSERT INTO jeux_video... " />
@@ -640,16 +694,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/FonctionMysql.php">
+    <entry file="file://$PROJECT_DIR$/images/ico02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/visage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/photo-tigre.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Php_img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlusLoin/Php_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="55" />
           <folding>
             <element signature="e#6#84#0#PHP" expanded="true" />
-            <marker date="1493802256642" expanded="true" signature="348:453" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:465" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:521" ph="INSERT INTO jeux_video... " />
-            <marker date="1493802256642" expanded="true" signature="348:561" ph="INSERT INTO jeux_video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlusLoin/Image_logo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
