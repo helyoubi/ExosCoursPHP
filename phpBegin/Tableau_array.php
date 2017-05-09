@@ -74,3 +74,6 @@ if (in_array('Cerise', $fruits))
 {
     echo 'La valeur "Cerise" se trouve dans les fruits !';
 }
+
+
+
